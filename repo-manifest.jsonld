@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/sprint/commit/1a4b61d6e14d7fe988d7bd038e40e7458c202b6f",
       "git:hexsha": "1a4b61d6e14d7fe988d7bd038e40e7458c202b6f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T04:10:31.269344+00:00"
     }
   ]
 }
